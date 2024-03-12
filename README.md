@@ -7,8 +7,8 @@
 
 | Function                           | explication   |
 | ---------------------------------- | ------------- |
-| `EnableRealTime ()`     |  Enable the real timer   |
-| `DisableRealTime ()`    |    Disable real time     |
+| `EnableRealTime ()`     |  Enable real timer       |
+| `DisableRealTime ()`    |  Disable real time       |
 
 ***
 
