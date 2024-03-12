@@ -16,7 +16,7 @@
 new 
     VariableTimer;
 
-// native ActiveRealTime ();
+// native EnableRealTime ();
 // native DisableRealTime ();
 
 public OnGameModeInit ()
@@ -35,7 +35,7 @@ public OnGameModeInit ()
     return 1;
 }
 
-ActiveRealTime ()
+EnableRealTime ()
         return VariableTimer 
                     = SetTimer ("@CheckRealTimer", timer_realtime * 1000, false);
 
