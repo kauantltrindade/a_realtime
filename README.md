@@ -1,6 +1,6 @@
 # [a_realtime](https://github.com/kauantltrindade/a_realtime)
 
-> [!NOTE]
+> [!Version]
 > **Version v1.0.1**
 
 This script sets game time to real-life time
