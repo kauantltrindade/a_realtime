@@ -28,7 +28,8 @@ Include in your code and begin using the library:
 #include <a_realtimer>
 ```
 
-## Credits
-* kauantl - creator
-
-If you find any bugs in the include or have any suggestions, please let us know.
+> [!Warning]  
+> Follow the include credits below
+> ```pawn
+> kauantl - creator
+> ```
