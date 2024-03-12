@@ -35,7 +35,7 @@ public OnGameModeInit ()
     return 1;
 }
 
-EnableRealTime ()
+stock EnableRealTime ()
         return VariableTimer 
                     = SetTimer ("@CheckRealTimer", timer_realtime * 1000, false);
 
