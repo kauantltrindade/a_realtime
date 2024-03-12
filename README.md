@@ -7,7 +7,7 @@
 
 | Function                           | explication   |
 | ---------------------------------- | ------------- |
-| `ActiveRealTime ()`     |  Enable the real timer   |
+| `EnableRealTime ()`     |  Enable the real timer   |
 | `DisableRealTime ()`    |    Disable real time     |
 
 ***
