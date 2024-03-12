@@ -1,6 +1,6 @@
 # [a_realtime](https://github.com/kauantltrindade/a_realtime)
 
-> [!Version]
+> [!Note]
 > **Version v1.0.1**
 
 This script sets game time to real-life time
@@ -14,7 +14,7 @@ This script sets game time to real-life time
 
 ***
 
-> [!NOTE]  
+> [!Warning]  
 > Below are some useful definitions of include
 > For example, type following:
 > ```pawn
